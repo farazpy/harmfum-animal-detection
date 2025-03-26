@@ -32,8 +32,8 @@ AnimalDetectionSystem is a Python-based tool designed to detect animals in real-
 
 1. **Download the Files**
    Download the two core scripts from the repository:
-   - [`index.py`](./index.py)
-   - [`createSession.py`](./createSession.py)
+   - [`main_CLI.py`](./main_CLI.py)
+   - [`app.py`](./app.py)
 
    Command-line option:
    ```bash
