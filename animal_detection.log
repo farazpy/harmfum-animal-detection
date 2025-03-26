@@ -1,0 +1,12 @@
+2025-03-13 14:42:01,816 - INFO - package: mysql.connector.plugins
+2025-03-13 14:42:01,816 - INFO - plugin_name: mysql_native_password
+2025-03-13 14:42:01,818 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-13 14:42:01,818 - INFO - Connected to MySQL database
+2025-03-13 14:42:05,328 - INFO - Loaded face: vecteezy_tiger-on-plain-background_46897856.jpg
+2025-03-13 14:42:05,336 - INFO - Face recognizer trained successfully
+2025-03-13 14:42:33,875 - INFO - package: mysql.connector.plugins
+2025-03-13 14:42:33,875 - INFO - plugin_name: mysql_native_password
+2025-03-13 14:42:33,875 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-03-13 14:42:33,876 - INFO - Connected to MySQL database
+2025-03-13 14:42:36,926 - INFO - Loaded face: vecteezy_tiger-on-plain-background_46897856.jpg
+2025-03-13 14:42:36,929 - INFO - Face recognizer trained successfully
