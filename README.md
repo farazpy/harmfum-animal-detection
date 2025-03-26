@@ -1,14 +1,14 @@
 # Animal Detection System
 
-AnimalDetectionSystem is a Python-based tool designed to detect animals in real-time using camera feeds or sensor data. This project leverages computer vision (via OpenCV) and optional hardware integration for applications like wildlife monitoring, farm security, or ecological research. It consists of two scripts: `index.py` for core detection logic and `createSession.py` for managing detection sessions (e.g., camera or sensor configurations). Developed for enthusiasts, researchers, and developers interested in automated animal detection.
+AnimalDetectionSystem is a Python-based tool designed to detect animals in real-time using camera feeds or sensor data. This project leverages computer vision (via OpenCV) and optional hardware integration for applications like wildlife monitoring, farm security, or ecological research. It consists of two scripts: `main_CLI.py` for core detection logic and `app.py` for managing detection sessions (e.g., camera or sensor configurations). Developed for enthusiasts, researchers, and developers interested in automated animal detection.
 
 ## Features
 
-- **Session Management** (`createSession.py`)
+- **Session Management** (`app.py`)
   - Initialize and manage detection sessions
   - Store session configurations (e.g., camera settings) in JSON files
 
-- **Animal Detection** (`index.py`)
+- **Animal Detection** (`main_CLI.py`)
   - Detect animals in live camera feeds using OpenCV
   - Support for pre-trained models or custom detection algorithms
   - Log detection events with timestamps and details
